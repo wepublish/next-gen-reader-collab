@@ -33,15 +33,16 @@ export default function Index() {
             Unlike previous business automation tools that required extensive
             technical knowledge to implement, BusinessMind AI uses natural
             language processing to understand business needs and automatically
-            configures itself to each company's specific requirements.
+            configures itself to each company&#34;s specific requirements.
           </p>
 
           <blockquote className="border-l-4 border-blue-500 pl-6 py-2 bg-gray-50 italic text-gray-700">
-            "We've seen a complete transformation in how our clients operate.
-            The average business using this AI system reports saving 15-20 hours
-            per week on administrative tasks alone. More importantly, they're
-            able to focus on strategic growth initiatives that were previously
-            impossible due to time constraints."
+            &#34;We&#34;ve seen a complete transformation in how our clients
+            operate. The average business using this AI system reports saving
+            15-20 hours per week on administrative tasks alone. More
+            importantly, they&#34;re able to focus on strategic growth
+            initiatives that were previously impossible due to time
+            constraints.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — Dr. Michael Rodriguez, Small Business Innovation Institute
             </footer>
@@ -72,13 +73,13 @@ export default function Index() {
           </p>
 
           <blockquote className="border-l-4 border-green-500 pl-6 py-2 bg-green-50 italic text-gray-700">
-            "Before, I was drowning in emails, scheduling conflicts, and project
-            management chaos. I was working 70-hour weeks just to keep up with
-            basic operations, leaving little time for actual creative work or
-            business development. Now, the AI handles routine communications,
-            schedules meetings automatically, and even helps with creative
-            brainstorming. It's like having a super-efficient assistant who
-            never sleeps."
+            &#34;Before, I was drowning in emails, scheduling conflicts, and
+            project management chaos. I was working 70-hour weeks just to keep
+            up with basic operations, leaving little time for actual creative
+            work or business development. Now, the AI handles routine
+            communications, schedules meetings automatically, and even helps
+            with creative brainstorming. It&#34;s like having a super-efficient
+            assistant who never sleeps.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — Maria Gonzalez, Marketing Agency Owner
             </footer>
@@ -117,12 +118,12 @@ export default function Index() {
           </p>
 
           <blockquote className="border-l-4 border-purple-500 pl-6 py-2 bg-purple-50 italic text-gray-700">
-            "We were losing customers because of scheduling mix-ups and parts
-            availability issues. The AI system now tracks every vehicle that
-            comes through our doors, automatically orders parts based on
+            &#34;We were losing customers because of scheduling mix-ups and
+            parts availability issues. The AI system now tracks every vehicle
+            that comes through our doors, automatically orders parts based on
             scheduled services, and sends customers proactive updates about
             their repairs. Our customer retention rate has improved by 45%, and
-            we're completing 25% more jobs per day."
+            we&#34;re completing 25% more jobs per day.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — James Patterson, Automotive Repair Shop Owner
             </footer>
@@ -138,11 +139,11 @@ export default function Index() {
           </p>
 
           <blockquote className="border-l-4 border-orange-500 pl-6 py-2 bg-orange-50 italic text-gray-700">
-            "The AI understands seasonal patterns in our business better than I
-            do. It predicts busy periods, adjusts staffing schedules
+            &#34;The AI understands seasonal patterns in our business better
+            than I do. It predicts busy periods, adjusts staffing schedules
             accordingly, and even suggests menu modifications based on
-            ingredient availability and customer preferences. It's transformed
-            how we operate."
+            ingredient availability and customer preferences. It&#34;s
+            transformed how we operate.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — Chef Isabella Romano, Restaurant Owner
             </footer>
@@ -153,24 +154,24 @@ export default function Index() {
           </h2>
 
           <p>
-            The platform's success stems from its sophisticated machine learning
-            architecture, which combines natural language processing, predictive
-            analytics, and automated workflow management. Unlike traditional
-            business software that requires extensive configuration and
-            training, BusinessMind AI begins working immediately upon
-            installation, gradually learning and adapting to each business's
+            The platform&#34;s success stems from its sophisticated machine
+            learning architecture, which combines natural language processing,
+            predictive analytics, and automated workflow management. Unlike
+            traditional business software that requires extensive configuration
+            and training, BusinessMind AI begins working immediately upon
+            installation, gradually learning and adapting to each business&#34;s
             unique operational patterns.
           </p>
 
           <p>
-            Dr. Sarah Kim, the platform's chief technology officer and former
-            Google AI researcher, explained the technical approach during a
-            recent technology conference. "We realized that most small
-            businesses don't have dedicated IT departments or the resources to
-            implement complex software solutions. Our goal was to create an AI
-            system that could understand business needs through natural
+            Dr. Sarah Kim, the platform&#34;s chief technology officer and
+            former Google AI researcher, explained the technical approach during
+            a recent technology conference. &#34;We realized that most small
+            businesses don&#34;t have dedicated IT departments or the resources
+            to implement complex software solutions. Our goal was to create an
+            AI system that could understand business needs through natural
             conversation and automatically configure itself to provide maximum
-            value."
+            value.&#34;
           </p>
 
           <div className="bg-gray-100 p-6 rounded-lg">
@@ -207,7 +208,7 @@ export default function Index() {
             The system uses advanced natural language processing to analyze
             business communications, identifying patterns and priorities that
             inform its automated decision-making. Machine learning algorithms
-            continuously refine the AI's understanding of each business,
+            continuously refine the AI&#34;s understanding of each business,
             improving performance over time without requiring manual updates or
             configuration changes.
           </p>
@@ -254,10 +255,10 @@ export default function Index() {
           </div>
 
           <blockquote className="border-l-4 border-indigo-500 pl-6 py-2 bg-indigo-50 italic text-gray-700">
-            "For the first time, small businesses have access to
+            &#34;For the first time, small businesses have access to
             enterprise-level automation and intelligence. This levels the
-            playing field in ways we haven't seen since the internet revolution
-            of the 1990s."
+            playing field in ways we haven&#34;t seen since the internet
+            revolution of the 1990s.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — Jennifer Park, Market Research Global
             </footer>
@@ -335,12 +336,12 @@ export default function Index() {
           </p>
 
           <blockquote className="border-l-4 border-red-500 pl-6 py-2 bg-red-50 italic text-gray-700">
-            "We're just scratching the surface of what's possible. Our roadmap
-            includes specialized versions for healthcare practices, legal firms,
-            construction companies, and other industries with unique operational
-            requirements. We're also developing advanced predictive capabilities
-            that will help businesses anticipate market changes and customer
-            needs."
+            &#34;We&#34;re just scratching the surface of what&#34;s possible.
+            Our roadmap includes specialized versions for healthcare practices,
+            legal firms, construction companies, and other industries with
+            unique operational requirements. We&#34;re also developing advanced
+            predictive capabilities that will help businesses anticipate market
+            changes and customer needs.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — David Liu, CEO and Co-founder, BusinessMind AI
             </footer>
@@ -389,11 +390,11 @@ export default function Index() {
           </p>
 
           <blockquote className="border-l-4 border-teal-500 pl-6 py-2 bg-teal-50 italic text-gray-700">
-            "We're witnessing the democratization of artificial intelligence.
-            What was once available only to Fortune 500 companies is now
-            accessible to the corner bakery or local law firm. This is just the
-            beginning of a transformation that will reshape how we think about
-            small business operations and competitiveness."
+            &#34;We&#34;re witnessing the democratization of artificial
+            intelligence. What was once available only to Fortune 500 companies
+            is now accessible to the corner bakery or local law firm. This is
+            just the beginning of a transformation that will reshape how we
+            think about small business operations and competitiveness.&#34;
             <footer className="text-sm text-gray-600 mt-2 not-italic">
               — Dr. Michael Rodriguez, Small Business Innovation Institute
             </footer>
@@ -413,8 +414,8 @@ export default function Index() {
             attention from policymakers interested in supporting
             entrepreneurship and economic development. Several states have
             announced initiatives to provide AI training and implementation
-            support for small businesses, recognizing the technology's potential
-            to drive economic growth and job creation.
+            support for small businesses, recognizing the technology&#34;s
+            potential to drive economic growth and job creation.
           </p>
 
           <div className="bg-gray-900 text-white p-6 rounded-lg">
