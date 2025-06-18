@@ -1,5 +1,3 @@
-import { HiMicrophone } from 'react-icons/hi';
-
 export default function VoiceComment() {
   return (
     <div
@@ -16,9 +14,7 @@ export default function VoiceComment() {
     >
       <h3 className="text-lg font-semibold">Voice Comment</h3>
       {/* Add your modal content here */}
-      <span className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-blue-100 text-blue-600 mb-4">
-        <HiMicrophone size={24} />
-      </span>
+      <span className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-blue-100 text-blue-600 mb-4"></span>
     </div>
   );
 }
